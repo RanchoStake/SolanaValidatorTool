@@ -48,17 +48,17 @@ These must be configured in `/etc/fstab` with UUIDs for persistence before runni
 
 ### 1. Download the Script
 ```bash
-wget https://raw.githubusercontent.com/RanchoStake/SolanaValidatorTool/main/solana-validator-tool-v0_1_0.sh
+wget https://raw.githubusercontent.com/RanchoStake/SolanaValidatorTool/main/solana-validator-tool.sh
 ```
 
 ### 2. Make it Executable
 ```bash
-chmod +x solana-validator-tool-v0_1_0.sh
+chmod +x solana-validator-tool.sh
 ```
 
 ### 3. Run the Setup
 ```bash
-./solana-validator-tool-v0_1_0.sh
+./solana-validator-tool.sh
 ```
 
 ### 4. Follow the Prompts
