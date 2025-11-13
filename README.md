@@ -2,7 +2,7 @@
 
 **An automated setup and updating tool for Solana validators**
 
-<img width="475" height="537" alt="image" src="https://github.com/user-attachments/assets/2ee7e57c-86b7-4070-a4d1-ee38cfe7be40" />
+<img width="594" height="672" alt="image" src="https://github.com/user-attachments/assets/2ee7e57c-86b7-4070-a4d1-ee38cfe7be40" />
 
 [Website](https://ranchostake.xyz) • [Documentation](#usage) • [Contributing](#contributing)
 
